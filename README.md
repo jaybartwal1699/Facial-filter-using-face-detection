@@ -14,7 +14,9 @@ Brief description of your project.
 
 ## About
 
-Provide a brief overview of your project. Include what the project does, its main features, and any other relevant information.
+This project is a facial keypoint detection system built using TensorFlow and OpenCV. It aims to accurately locate and identify key facial landmarks such as eyes, nose, and mouth.
+
+Using a convolutional neural network (CNN) architecture, the model is trained on a labeled dataset of facial images to predict the coordinates of these keypoints, enabling various applications in facial analysis and augmentation.
 
 ## Dataset
 
